@@ -1,1 +1,1 @@
-worker1:npm i ffmpeg && npm update && npm start
+worker:npm i ffmpeg && npm update && npm start
